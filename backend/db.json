@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Teste",
+      "price": 5.899
+    },
+    {
+      "id": "2",
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": "3",
+      "name": "Sansung S20+",
+      "price": 5000.89
+    },
+    {
+      "id": "cbb4",
+      "name": "Lápis Azul",
+      "price": 510
+    },
+    {
+      "id": "26a0",
+      "name": "",
+      "price": 5
+    }
+  ]
+}
